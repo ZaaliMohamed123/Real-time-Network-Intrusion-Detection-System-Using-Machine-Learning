@@ -39,6 +39,3 @@ This project implements a real-time network intrusion detection system that capt
 ## Usage
 - The application will start capturing packets and processing them in real-time.
 - Predictions will be logged and saved to an Excel file in the `archive/` directory.
-
-## License
-This project is licensed under the MIT License.
